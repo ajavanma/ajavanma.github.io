@@ -1,5 +1,5 @@
 # Site
-repository: ajavanma/modern-resume-theme
+repository: sproogen/modern-resume-theme
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -110,7 +110,7 @@ content:
 footer_show_references: false
 
 # Build settings
-remote_theme: ajavanma/modern-resume-theme
+remote_theme: sproogen/modern-resume-theme
 # theme: jekyll-theme-minimal
 
 sass:
