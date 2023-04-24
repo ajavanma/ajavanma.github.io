@@ -94,13 +94,13 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link
+        title: Free Code Camp certificates
+        link: link
         link_text: Link Text
         additional_links:
-          - title:  title
-            icon: fab fa-github
-            url: Link 
+          - title:  Machine Learning with Python
+            icon: fab fa-free-code-camp
+            url: https://freecodecamp.org/certification/Javanmardi/machine-learning-with-python-v7 
         quote: >
           quote
         description: | # this will include new lines to allow paragraphs
