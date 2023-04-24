@@ -35,7 +35,7 @@ additional_links:
   icon: fab fa-gitlab
   url: https://gitlab.rhrk.uni-kl.de/ajavanma
 - title: CV
-  icon: fad fa-file
+  icon: fa-duotone fa-file
   url: https://github.com/ajavanma/cv/cv_arash_javanmardi.pdf
 
 # Google Analytics and Tag Manager
@@ -82,7 +82,7 @@ content:
       - layout: left
         title: RPTU
         caption: 2021 - 2023
-        sub_title: Msc Civil Eng.
+        sub_title: M.Sc. Civil Eng.
         quote: >
           quote
         description: | # this will include new lines to allow paragraphs
