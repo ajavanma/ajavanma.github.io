@@ -35,7 +35,7 @@ additional_links:
   icon: fab fa-gitlab
   url: https://gitlab.rhrk.uni-kl.de/ajavanma
 - title: CV
-  icon: fas fa-file
+  icon: fas fa-page
   url: https://ajavanma.github.io/cv/cv_arash_javanmardi.pdf
 
 # Google Analytics and Tag Manager
@@ -94,7 +94,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Free Code Camp certificates
+        title: Free Code Camp Certificates
         link: link
         link_text: Link Text
         additional_links:
@@ -104,9 +104,9 @@ content:
         quote: >
           quote
         description: | # this will include new lines to allow paragraphs
-          *https://freecodecamp.org/certification/Javanmardi/machine-learning-with-python-v7* 
-          *https://freecodecamp.org/certification/Javanmardi/data-analysis-with-python-v7*     
-          *https://www.freecodecamp.org/certification/Javanmardi/scientific-computing-with-python-v7*     
+          - https://freecodecamp.org/certification/Javanmardi/machine-learning-with-python-v7
+          - https://freecodecamp.org/certification/Javanmardi/data-analysis-with-python-v7  
+          - https://www.freecodecamp.org/certification/Javanmardi/scientific-computing-with-python-v7    
 
   - title: A Little More About Me
     layout: text
