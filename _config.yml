@@ -48,38 +48,21 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Arash and I'm a civil engineer currently researching machine learning.
+  Hi, I'm Arash, a civil engineer researching computer vision.
 
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Title
-        link: github.com/ajavanma
-        # link_text: Project Website
-        additional_links:
-          - title:  title
-            icon: fab fa-github
-            url: url
-          # - title:  Github page for project (eg. ajavanma/ajavanma.)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. ajavanma.github.io/ajavanma.)
-        quote: >
-          quote
-        description: | # this will include new lines to allow paragraphs
-          description
+  
 
   - title: Experience 
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title:  Company Name
-        link: website.com
+        title:  Title
+        link: link
         # link_text: boringcompany.com
         sub_title: sub_title
-        caption: November - Present
+        caption: Caption
         quote: >
           quote
         description: | # this will include new lines to allow paragraphs
@@ -95,8 +78,26 @@ content:
         quote: >
           quote
         description: | # this will include new lines to allow paragraphs
-          description
           *italic description*
+
+  - title: Certificates # Title for the section
+      layout: list # Type of content section (list/text)
+      content:
+        - layout: top-middle
+          title: Title
+          link: link
+          # link_text: Project Website
+          additional_links:
+            - title:  title
+              icon: fab fa-github
+              url: url
+            # - title:  Github page for project (eg. ajavanma/ajavanma.)
+            #   icon: fab fa-github
+            #   url: Link to project (eg. ajavanma.github.io/ajavanma.)
+          quote: >
+            quote
+          description: | # this will include new lines to allow paragraphs
+            description          
 
   - title: A Little More About Me
     layout: text
@@ -104,7 +105,7 @@ content:
       Hobbies:
       - Reading
       - Gaming
-      - [working link](https://www.youtube.com/)
+      - [link](https://www.youtube.com/)
 
 # Footer
 footer_show_references: false
