@@ -100,17 +100,13 @@ content:
         additional_links:
           - title:  Machine Learning with Python
             icon: fab fa-free-code-camp
-            url: https://freecodecamp.org/certification/Javanmardi/machine-learning-with-python-v7 
-          - title:  Data Analysis with Python
-          icon: fab fa-free-code-camp
-          url:  https://freecodecamp.org/certification/Javanmardi/data-analysis-with-python-v7
-          - title:  Scientific Computing with Python
-          icon: fab fa-free-code-camp
-          url: https://www.freecodecamp.org/certification/Javanmardi/scientific-computing-with-python-v7
+            # url: https://freecodecamp.org/certification/Javanmardi/machine-learning-with-python-v7 
         quote: >
           quote
         description: | # this will include new lines to allow paragraphs
-          *italic Description*     
+          *https://freecodecamp.org/certification/Javanmardi/machine-learning-with-python-v7* 
+          *https://freecodecamp.org/certification/Javanmardi/data-analysis-with-python-v7*     
+          *https://www.freecodecamp.org/certification/Javanmardi/scientific-computing-with-python-v7*     
 
   - title: A Little More About Me
     layout: text
