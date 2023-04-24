@@ -1,0 +1,120 @@
+# Site
+repository: ajavanma/landing_page.
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Arash Javanmardi
+title: Civil engineer, aspiring Datascientist
+email: aj.javanmardi@gmail.com
+website: https://ajavanma.github.io
+
+# Dark Mode (true/false/never)
+darkmode: true
+
+# Social links
+twitter_username: twitter
+github_username:  ajavanma
+# stackoverflow_username: "00000001"
+# dribbble_username: 0
+# facebook_username: 0
+# flickr_username: 0
+# instagram_username: 0
+linkedin_username: linkedin.com/in/arash-javanmardi-9567b9167 
+# xing_username: 0
+# pinterest_username: 0
+# youtube_username: 0
+# googleplus_username: 0
+# orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+additional_links:
+- title: itsgoingto.be
+  icon: fas fa-globe
+  url: https://www.itsgoingto.be
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name's Arash and I am a civil engineer. I also have experience in machine learning.
+
+
+content:
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Super awesome project
+        link: github.com/ajavanma
+        # link_text: Project Website
+        additional_links:
+          - title:  title
+            icon: fab fa-github
+            url: url
+          # - title:  Github page for project (eg. ajavanma/ajavanma.)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. ajavanma.github.io/ajavanma.)
+        quote: >
+          quote
+        description: | # this will include new lines to allow paragraphs
+          description
+
+  - title: Experience 
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title:  Company Name
+        link: website.com
+        # link_text: boringcompany.com
+        sub_title: sub_title
+        caption: November - Present
+        quote: >
+          quote
+        description: | # this will include new lines to allow paragraphs
+          description
+
+  - title: Education 
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Harvard University
+        caption: 2010 - 2013
+        sub_title: BSc Computer Science
+        quote: >
+          quote
+        description: | # this will include new lines to allow paragraphs
+          description
+          *italic description*
+
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Hobbies:
+      - Reading
+      - Gaming
+      - [working link](https://www.youtube.com/)
+
+# Footer
+footer_show_references: false
+
+# Build settings
+remote_theme: ajavanma/landing_page.
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
