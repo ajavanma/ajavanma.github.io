@@ -35,7 +35,7 @@ additional_links:
   icon: fab fa-gitlab
   url: https://gitlab.rhrk.uni-kl.de/ajavanma
 - title: CV
-  icon: fas fa-page
+  icon: far fa-page
   url: https://ajavanma.github.io/cv/cv_arash_javanmardi.pdf
 
 # Google Analytics and Tag Manager
@@ -104,9 +104,11 @@ content:
         quote: >
           quote
         description: | # this will include new lines to allow paragraphs
-          - https://freecodecamp.org/certification/Javanmardi/machine-learning-with-python-v7
-          - https://freecodecamp.org/certification/Javanmardi/data-analysis-with-python-v7  
-          - https://www.freecodecamp.org/certification/Javanmardi/scientific-computing-with-python-v7    
+          Machine Learning with Python
+          
+            - https://freecodecamp.org/certification/Javanmardi/machine-learning-with-python-v7
+            - https://freecodecamp.org/certification/Javanmardi/data-analysis-with-python-v7  
+            - https://www.freecodecamp.org/certification/Javanmardi/scientific-computing-with-python-v7    
 
   - title: A Little More About Me
     layout: text
