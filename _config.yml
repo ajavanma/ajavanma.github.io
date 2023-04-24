@@ -1,5 +1,5 @@
 # Site
-repository: ajavanma/landing_page
+repository: ajavanma/modern-resume-theme
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -110,7 +110,7 @@ content:
 footer_show_references: false
 
 # Build settings
-remote_theme: ajavanma/landing_page
+remote_theme: ajavanma/modern-resume-theme
 # theme: jekyll-theme-minimal
 
 sass:
