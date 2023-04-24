@@ -9,7 +9,7 @@ version: 2
 name: Arash Javanmardi
 title: Civil engineer, aspiring Datascientist
 email: aj.javanmardi@gmail.com
-website: https://github.com/ajavanma/cv/cv_arash_javanmardi.pdf
+# website: https://github.com/ajavanma/cv/cv_arash_javanmardi.pdf
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -34,9 +34,9 @@ additional_links:
 - title: Gitlab
   icon: fab fa-gitlab
   url: https://gitlab.rhrk.uni-kl.de/ajavanma
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
+- title: CV
+  icon: fad fa-file
+  url: https://github.com/ajavanma/cv/cv_arash_javanmardi.pdf
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -56,7 +56,17 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title:  Title
+        title:  DFKI
+        link: link
+        # link_text: boringcompany.com
+        sub_title: sub_title
+        caption: Caption
+        quote: >
+          quote
+        description: | # this will include new lines to allow paragraphs
+          Description
+          - layout: left
+        title:  RPTU
         link: link
         # link_text: boringcompany.com
         sub_title: sub_title
