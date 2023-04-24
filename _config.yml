@@ -35,8 +35,8 @@ additional_links:
   icon: fab fa-gitlab
   url: https://gitlab.rhrk.uni-kl.de/ajavanma
 - title: CV
-  icon: fa-duotone fa-file
-  url: https://github.com/ajavanma/cv/cv_arash_javanmardi.pdf
+  icon: fas fa-file
+  url: https://ajavanma.github.io/cv/cv_arash_javanmardi.pdf
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -101,6 +101,12 @@ content:
           - title:  Machine Learning with Python
             icon: fab fa-free-code-camp
             url: https://freecodecamp.org/certification/Javanmardi/machine-learning-with-python-v7 
+          - title:  Data Analysis with Python
+          icon: fab fa-free-code-camp
+          url:  https://freecodecamp.org/certification/Javanmardi/data-analysis-with-python-v7
+          - title:  Scientific Computing with Python
+          icon: fab fa-free-code-camp
+          url: https://www.freecodecamp.org/certification/Javanmardi/scientific-computing-with-python-v7
         quote: >
           quote
         description: | # this will include new lines to allow paragraphs
