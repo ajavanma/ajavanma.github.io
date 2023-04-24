@@ -52,8 +52,6 @@ about_content: | # this will include new lines to allow paragraphs
 
 
 content:
-  
-
   - title: Experience 
     layout: list # Type of content section (list/text)
     content:
@@ -81,23 +79,22 @@ content:
           *italic description*
 
   - title: Projects # Title for the section
-      layout: list # Type of content section (list/text)
-      content:
-        - layout: top-middle
-          title: Title
-          link: link
-          # link_text: Project Website
-          additional_links:
-            - title:  title
-              icon: fab fa-github
-              url: url
-            # - title:  Github page for project (eg. ajavanma/ajavanma.)
-            #   icon: fab fa-github
-            #   url: Link to project (eg. ajavanma.github.io/ajavanma.)
-          quote: >
-            quote
-          description: | # this will include new lines to allow paragraphs
-            description          
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Project name
+        link: Link
+        link_text: Link Text
+        additional_links:
+          - title:  title
+            icon: fab fa-github
+            url: Link 
+        quote: >
+          quote
+        description: | # this will include new lines to allow paragraphs
+          Description          
 
   - title: A Little More About Me
     layout: text
