@@ -110,7 +110,8 @@ content:
 footer_show_references: false
 
 # Build settings
-remote_theme: ajavanma/landing_page
+# remote_theme: ajavanma/landing_page
+theme: jekyll-theme-minimal
 
 sass:
   sass_dir: _sass
