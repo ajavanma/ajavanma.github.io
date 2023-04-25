@@ -8,26 +8,12 @@ version: 2
 # Personal info
 name: Arash Javanmardi
 title: Civil engineer, aspiring Datascientist
-email: aj.javanmardi@gmail.com
+# email: aj.javanmardi@gmail.com
 # website: https://github.com/ajavanma/cv/cv_arash_javanmardi.pdf
 
 # Dark Mode (true/false/never)
 darkmode: true
 
-# Social links
-# twitter_username: twitter
-# linkedin_username: arash-javanmardi-9567b9167 
-# github_username:  ajavanma
-# stackoverflow_username: "00000001"
-# dribbble_username: 0
-# facebook_username: 0
-# flickr_username: 0
-# instagram_username: 0
-# xing_username: 0
-# pinterest_username: 0
-# youtube_username: 0
-# googleplus_username: 0
-# orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
@@ -65,75 +51,8 @@ about_content: | # this will include new lines to allow paragraphs
   I find my purpose in understanding, pattern recognition and contributing to the collective corpus of wisdom.
   I consider myself privileged to have crossed paths with some extraordinary people who have inspired my passion and molded my identity.
 
-# content:
-#   - title: Experience 
-#     layout: list # Type of content section (list/text)
-#     content:
-#       - layout: left
-#         title:  DFKI
-#         link: link
-#         # link_text: boringcompany.com
-#         sub_title: sub_title
-#         caption: Caption
-#         quote: >
-#           quote
-#         description: | # this will include new lines to allow paragraphs
-#           Description
-#           - layout: left
-#         title:  RPTU
-#         link: link
-#         # link_text: boringcompany.com
-#         sub_title: sub_title
-#         caption: Caption
-#         quote: >
-#           quote
-#         description: | # this will include new lines to allow paragraphs
-#           Description
-
-#   - title: Education 
-#     layout: list # Type of content section (list/text)
-#     content:
-#       - layout: left
-#         title: RPTU
-#         caption: 2021 - 2023
-#         sub_title: M.Sc. Civil Eng.
-#         quote: >
-#           quote
-#         description: | # this will include new lines to allow paragraphs
-#           Description     
-
-  # - title: Projects # Title for the section
-  #   layout: list # Type of content section (list/text)
-  #   content:
-  #     - layout: left
-  #       border: weak  # Value of `weak` will display a weak border below this item. # Any 
-  #                     # other value (or no value) means no border will be displayed
-  #       title: Certificates
-  #       link: link
-  #       link_text: Link Text
-  #       additional_links:
-  #         - title:  Certificates
-  #           icon: fab fa-free-code-camp
-  #           # url: https://freecodecamp.org/certification/Javanmardi/machine-learning-with-python-v7 
-  #       quote: >
-  #         quote
-  #       description: | # this will include new lines to allow paragraphs
-  #         Free Code Camp Certificates
-          
-  #           - https://freecodecamp.org/certification/Javanmardi/machine-learning-with-python-v7
-  #           - https://freecodecamp.org/certification/Javanmardi/data-analysis-with-python-v7  
-  #           - https://www.freecodecamp.org/certification/Javanmardi/scientific-computing-with-python-v7    
-
-#   - title: A Little More About Me
-#     layout: text
-#     content: | # this will include new lines to allow paragraphs
-#       Hobbies:
-#       - Reading
-#       - Gaming
-#       - [link](https://www.youtube.com/)
-
 # Footer
-footer_show_references: false
+footer_show_references: true
 
 # Build settings
 remote_theme: sproogen/modern-resume-theme
