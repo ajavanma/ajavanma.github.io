@@ -35,7 +35,7 @@ additional_links:
   icon: fab fa-gitlab
   url: https://gitlab.rhrk.uni-kl.de/ajavanma
 - title: CV
-  icon: fas file-pdf
+  icon: fa-solid fa-file
   url: https://ajavanma.github.io/cv/cv_arash_javanmardi.pdf
 
 # Google Analytics and Tag Manager
