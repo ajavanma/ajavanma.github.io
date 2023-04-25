@@ -16,8 +16,8 @@ darkmode: true
 
 # Social links
 # twitter_username: twitter
-linkedin_username: arash-javanmardi-9567b9167 
-github_username:  ajavanma
+# linkedin_username: arash-javanmardi-9567b9167 
+# github_username:  ajavanma
 # stackoverflow_username: "00000001"
 # dribbble_username: 0
 # facebook_username: 0
@@ -31,7 +31,7 @@ github_username:  ajavanma
 
 # Additional icon links
 additional_links:
-- title: LinkedIn
+- title: LinkedOn
   icon: fab fa-linkedin
   url: https://www.linkedin.com/in/arash-javanmardi-9567b9167/
 - title: Gitlab
