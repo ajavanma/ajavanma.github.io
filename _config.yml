@@ -35,7 +35,7 @@ additional_links:
   icon: fab fa-gitlab
   url: https://gitlab.rhrk.uni-kl.de/ajavanma
 - title: CV
-  icon: far fa-file
+  icon: fad fa-file
   url: https://ajavanma.github.io/cv/cv_arash_javanmardi.pdf
 
 # Google Analytics and Tag Manager
@@ -98,7 +98,7 @@ content:
         link: link
         link_text: Link Text
         additional_links:
-          - title:  Machine Learning with Python
+          - title:  Certificates
             icon: fab fa-free-code-camp
             # url: https://freecodecamp.org/certification/Javanmardi/machine-learning-with-python-v7 
         quote: >
