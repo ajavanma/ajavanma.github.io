@@ -34,6 +34,9 @@ additional_links:
 - title: Gitlab
   icon: fab fa-gitlab
   url: https://gitlab.rhrk.uni-kl.de/ajavanma
+  - title: Discord
+  icon: fab fa-discord
+  url: discordapp.com/users/570764982908878858
 - title: CV
   icon: fab fa-dropbox
   url: https://ajavanma.github.io/cv/cv_arash_javanmardi.pdf
@@ -49,7 +52,7 @@ additional_links:
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, I'm Arash, a civil engineer researching computer vision.
-  My distinguishing trait is an insatiable fervour for obtaining knowledge.
+  My distinctive trait is an insatiable fervour for obtaining knowledge.
   I find my purpose in understanding, pattern recognition and contributing to the collective corpus of wisdom.
   I consider myself privileged to have crossed paths with some extraordinary people who have inspired my passion and molded my identity.
 
