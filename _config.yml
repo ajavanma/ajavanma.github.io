@@ -40,7 +40,7 @@ additional_links:
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
 # gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+google_analytics: "UA-265902251-1"
 
 # About Section
 # about_title: About Me
@@ -52,7 +52,7 @@ about_content: | # this will include new lines to allow paragraphs
   I consider myself privileged to have crossed paths with some extraordinary people who have inspired my passion and molded my identity.
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 remote_theme: sproogen/modern-resume-theme
