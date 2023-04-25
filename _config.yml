@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Arash Javanmardi
 title: Civil engineer, aspiring Datascientist
-email: aj.javanmardi@gmail.com
+# email: aj.javanmardi@gmail.com
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -47,7 +47,8 @@ about_content: | # this will include new lines to allow paragraphs
   I consider myself privileged to have crossed paths with some extraordinary people who have inspired my passion and molded my identity.
 
 # Footer
-footer_show_references: false
+footer_show_references: true
+references_title: aj.javanmardi@gmail.com
 
 # Build settings
 remote_theme: sproogen/modern-resume-theme
