@@ -34,7 +34,7 @@ additional_links:
 - title: Gitlab
   icon: fab fa-gitlab
   url: https://gitlab.rhrk.uni-kl.de/ajavanma
-  - title: Discord
+- title: Discord
   icon: fab fa-discord
   url: discordapp.com/users/570764982908878858
 - title: CV
