@@ -49,7 +49,9 @@ additional_links:
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, I'm Arash, a civil engineer researching computer vision.
-
+  An insatiable fervour for obtaining knowledge is my most valuable asset.
+  I find my purpose in understanding, pattern recognition and contributing to the collective wisdom.
+  I consider myself privileged to have crossed paths with some extraordinary people who have inspired my passion and molded my identity.
 
 content:
   - title: Experience 
