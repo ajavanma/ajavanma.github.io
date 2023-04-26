@@ -15,7 +15,7 @@ darkmode: true
 
 # Additional icon links
 additional_links:
-- title: LinkedOn
+- title: LinkedIn
   icon: fab fa-linkedin
   url: https://www.linkedin.com/in/arash-javanmardi-9567b9167/
 - title: Gitlab
